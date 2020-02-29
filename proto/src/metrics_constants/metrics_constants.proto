@@ -7439,5 +7439,8 @@ message MetricsEvent {
     // Xtended Metrics
     XTENDED = 1800;
     XTENSIONS = 1900;
+
+    // Panel for Mobile Data
+    PANEL_MOBILE_DATA = 2001;
   }
 }
